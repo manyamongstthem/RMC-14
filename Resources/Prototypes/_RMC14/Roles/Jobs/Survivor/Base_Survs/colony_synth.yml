@@ -52,7 +52,7 @@
         types:
           Blunt: 35
     - type: Synth
-  hidden: true
+  hidden:
   useLoadoutOfJob: RMCSyntheticColony # for inheritance
 
 - type: startingGear
